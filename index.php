@@ -231,10 +231,8 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				<li><a href="#">Membership</a></li>
 		</div>
 		<div class="col-md-3 footer-left">
-			<h3>Contact Us</h3>
-			<p>Contrary to popular belief</p>
-			<p>The standard chunk</p>
-			<p>office : +12 34 995 0792</p>
+			<h3>Contact me</h3>
+			<p>under construction...!</p>
 		</div>
 		<div class="col-md-3 social">
 			<h3>Follow Us</h3>
@@ -259,7 +257,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 		</div>
 		<div class="clearfix"></div>
 		<div class="footer-bottom">
-			<p>Copyrights © 2015 Music8. All rights reserved | Design by <a href="http://w3layouts.com/">W3layouts</a></p>
+			<p>Copyrights © 2018 Music world. All rights reserved | Design by <i>kinG shaifat</i></p>
 		</div>
 	</div>
 </div>

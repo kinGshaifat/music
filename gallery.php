@@ -54,7 +54,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 		});
 		</script>
 		<div class="header-right">
-					<h6>Follows Us :</h6>
+					<h6>Follow me :</h6>
 					<ul class="f-icons">
 						<li><a href="https://www.facebook.com/kingshaifat" class="facebook"> </a></li>
 						<li><a href="https://plus.google.com/u/0/+SkShaifatMurshed" class="p"> </a></li>
@@ -125,19 +125,16 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				<li><a href="#">Membership</a></li>
 		</div>
 		<div class="col-md-3 footer-left">
-			<h3>Contact Us</h3>
-			<p>Contrary to popular belief</p>
-			<p>The standard chunk</p>
-			<p>office : +12 34 995 0792</p>
+			<h3>Contact me</h3>
+			<p>Under construction</p>
 		</div>
 		<div class="col-md-3 social">
-			<h3>Follow Us</h3>
-					<ul>
-							<li><a href="#" class="facebook"> </a></li>
-							<li><a href="#" class="p"> </a></li>
-							<li><a href="#" class="twitter"> </a></li>
-							<li><a href="#" class="goog"> </a></li>
-						</ul>
+			<h3>Follow me</h3>
+            <ul>
+						<li><a href="https://www.facebook.com/kingshaifat" class="facebook"> </a></li>
+						<li><a href="https://plus.google.com/u/0/+SkShaifatMurshed" class="p"> </a></li>
+						<li><a href="https://www.twitter.com/skshaifat" class="twitter"> </a></li>
+					</ul>
 		</div>
 		<div class="col-md-3 footer-left">
 			<h3>Newsletter</h3>
@@ -153,7 +150,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 		</div>
 		<div class="clearfix"></div>
 		<div class="footer-bottom">
-			<p>Copyrights © 2015 Music8. All rights reserved | Design by <a href="http://w3layouts.com/">W3layouts</a></p>
+			<p><a>kinG shaifat</a></p>
 		</div>
 	</div>
 </div>

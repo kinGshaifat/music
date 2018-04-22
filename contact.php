@@ -54,8 +54,8 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 		});
 		</script>
 		<div class="header-right">
-					<h6>Follows Us :</h6>
-					<ul class="f-icons">
+					<h6>Follow me :</h6>
+					<ul>
 						<li><a href="https://www.facebook.com/kingshaifat" class="facebook"> </a></li>
 						<li><a href="https://plus.google.com/u/0/+SkShaifatMurshed" class="p"> </a></li>
 						<li><a href="https://www.twitter.com/skshaifat" class="twitter"> </a></li>
@@ -74,7 +74,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 <div class="contact">
 		<div class="container">
 			<div class="contact-top heading">
-				<h3>CONTACT US</h3>
+				<h3>CONTACT ME</h3>
 			</div>
 			<div class="contact-bottom">
 				<input type="text" value="Name" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Name';}">
@@ -90,9 +90,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 		</div>
 	</div>
 	<div class="map">
-		<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2884.310671366718!2d7.283884900000001!3d43.70409239999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x12cddab7066db4e1%3A0x7e52715fee03b279!2sNICE+FRANCE!5e0!3m2!1sen!2sin!4v1435662218413" frameborder="0" style="border:0" allowfullscreen=""></iframe>	
-	</div>
-<!-- footer -->
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d390843.0857286627!2d88.04953608529773!3d22.675752093263746!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39f882db4908f667%3A0x43e330e68f6c2cbc!2sKolkata%2C+West+Bengal!5e1!3m2!1sen!2sin!4v1524411215449" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe><!-- footer -->
 <div class="footer">
 	<div class="container">
 		<div class="col-md-3 footer-left">
@@ -104,18 +102,15 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				<li><a href="#">Membership</a></li>
 		</div>
 		<div class="col-md-3 footer-left">
-			<h3>Contact Us</h3>
-			<p>Contrary to popular belief</p>
-			<p>The standard chunk</p>
-			<p>office : +12 34 995 0792</p>
+			<h3>Contact me</h3>
+			<p>Under construction..!</p>
 		</div>
 		<div class="col-md-3 social">
-			<h3>Follow Us</h3>
-					<ul>
-							<li><a href="#" class="facebook"> </a></li>
-							<li><a href="#" class="p"> </a></li>
-							<li><a href="#" class="twitter"> </a></li>
-							<li><a href="#" class="goog"> </a></li>
+			<h3>Follow me</h3>
+            <ul class="f-icons">
+							<li><a href="https://www.facebook.com/kingshaifat" class="facebook"> </a></li>
+							<li><a href="https://plus.google.com/u/0/+SkShaifatMurshed" class="p"> </a></li>
+							<li><a href="https://www.twitter.com/skshaifat" class="twitter"> </a></li>
 						</ul>
 		</div>
 		<div class="col-md-3 footer-left">
@@ -132,7 +127,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 		</div>
 		<div class="clearfix"></div>
 			<div class="footer-bottom">
-			<p>Copyrights © 2015 Music8. All rights reserved | Design by <a href="http://w3layouts.com/">W3layouts</a></p>
+			<p>Copyrights © 2018 Music world. All rights reserved | Design by <i>kinG shaifat</i></p>
 		</div>
 	</div>
 </div>
