@@ -57,7 +57,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 					<h6>Follows me :</h6>
 						<ul class="f-icons">
 							<li><a href="https://www.facebook.com/kingshaifat" class="facebook"> </a></li>
-							<li><a href="#" class="p"> </a></li>
+							<li><a href="https://plus.google.com/u/0/+SkShaifatMurshed" class="p"> </a></li>
 							<li><a href="https://www.twitter.com/skshaifat" class="twitter"> </a></li>
 						</ul>
 							<div class="clearfix"></div>

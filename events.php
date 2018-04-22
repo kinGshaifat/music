@@ -23,12 +23,12 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 		<div class="header-bottom">
 			<div class="fixed-header">
 				<div class="logo">
-					<h1><a href="index.html">Music<span>8</span></a></h1>
+					<h1><b>music world</b></h1>
 				</div>
 			<div class="hd-lt">	
 			<span class="menu"> </span>
-			<!-- Nav -->
-			<?php include('menu.php') ?>
+				<!-- Nav -->
+				<?php include('menu.php') ?>
 					
 		<!-- script for menu -->
 				<script>
@@ -55,11 +55,11 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 		</script>
 		<div class="header-right">
 					<h6>Follows Us :</h6>
-						<ul class="f-icons">
-							<li><a href="#" class="facebook"> </a></li>
-							<li><a href="#" class="p"> </a></li>
-							<li><a href="#" class="twitter"> </a></li>
-						</ul>
+					<ul class="f-icons">
+						<li><a href="https://www.facebook.com/kingshaifat" class="facebook"> </a></li>
+						<li><a href="https://plus.google.com/u/0/+SkShaifatMurshed" class="p"> </a></li>
+						<li><a href="https://www.twitter.com/skshaifat" class="twitter"> </a></li>
+					</ul>
 							<div class="clearfix"></div>
 				</div>
 				<div class="clearfix"></div>
@@ -71,75 +71,114 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 	 </div>
 </div>
 <!--banner-->
-<div class="about">
+<div class="events">
 	<div class="container">
-		<h3>About me</h3>
-			<div class="ab-top">
-				<div class="col-md-6 ab-lft">
-					<img src="images/1.jpg" alt=" " class="img-responsive">
+		<div class="col-md-9 events-left">
+			<h3>Featured events</h3>
+			<div class="eve-top">
+				<div class="col-md-5 eve-lt">
+					<div class="ev-lft">
+						<img src="images/img4.jpg" alt=" " class="img-responsive">
+					</div>
+					<div class="ev-rgt">
+						<h5>29</h5>
+						<h6>August</h6>
+					</div>	
+					<div class="clearfix"></div>
 				</div>
-				<div class="col-md-6 ab-rgt">
-					<h4>Slightly believable</h4>
-					<p>Lorem Ipsum is simply dummy text of the printing and words which don't look even slightly dummy text of the printing and words which don't look even slightly believable.</p>
-					<p> If words which don't look even slightly believable. If  believable. If words which don't look even slightly believable. If you are  are going to use a passage of Lorem Ipsum typesetting industry. Lorem Ipsum has beenLorem Ipsum is simply dummy text of the printing and words which don't look even slightly believable. If words which don't look even slightly believable. If you are  are going to use a passage of Lorem Ipsum typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,  the industry's standard dummy text ever since the 1500s, </p>
+				<div class="col-md-7 eve-rt">
+					<h4>Variations of passages</h4>
+					<p>There are many variations of passages Slightly believable of Lorem Ipsum available, but the majority have suffered alteration</p>
 				</div>
 				<div class="clearfix"></div>
 			</div>
-			<h3>Biography</h3>
-			<div class="ab-btm">
-				<div class="ab-l">
-					<h6>2010 -</h6>
-				</div>
-				<div class="ab-r">
-					<p>Lorem Ipsum is simply dummy text of the printing and words which don't look even slightly dummy text of the printing and  Lorem Ipsum typesetting industry. Lorem Ipsum has been the  words which don't look even slightly believable.</p>
-				</div>
+			<div class="eve-top">
+				<div class="col-md-5 eve-lt">
+					<div class="ev-lft">
+						<img src="images/img5.jpg" alt=" " class="img-responsive">
+					</div>
+					<div class="ev-rgt">
+						<h5>10</h5>
+						<h6>September</h6>
+					</div>	
 					<div class="clearfix"></div>
+				</div>
+				<div class="col-md-7 eve-rt">
+					<h4>Ipsum available</h4>
+					<p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration</p>
+				</div>
+				<div class="clearfix"></div>
 			</div>
-			<div class="ab-btm">
-				<div class="ab-l">
-					<h6>2011 -</h6>
-				</div>
-				<div class="ab-r">
-					<p>Lorem Ipsum is simply dummy text of the printing and words which don't look even slightly dummy text of the printing and words which  Lorem Ipsum typesetting industry. Lorem Ipsum has been the  don't look even slightly believable.</p>
-				</div>
+			<div class="eve-top">
+				<div class="col-md-5 eve-lt">
+					<div class="ev-lft">
+						<img src="images/img3.jpg" alt=" " class="img-responsive">
+					</div>
+					<div class="ev-rgt">
+						<h5>22</h5>
+						<h6>October</h6>
+					</div>	
 					<div class="clearfix"></div>
+				</div>
+				<div class="col-md-7 eve-rt">
+					<h4>Passages of Lorem</h4>
+					<p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration</p>
+				</div>
+				<div class="clearfix"></div>
 			</div>
-			<div class="ab-btm">
-				<div class="ab-l">
-					<h6>2012 -</h6>
-				</div>
-				<div class="ab-r">
-					<p>Lorem Ipsum is simply dummy text of the printing and words which don't look even slightly dummy text of the  Lorem Ipsum typesetting industry. Lorem Ipsum has been the  printing and words which don't look even slightly believable.</p>
-				</div>
+			<div class="eve-top">
+				<div class="col-md-5 eve-lt">
+					<div class="ev-lft">
+						<img src="images/img2.jpg" alt=" " class="img-responsive">
+					</div>
+					<div class="ev-rgt">
+						<h5>12</h5>
+						<h6>November</h6>
+					</div>	
 					<div class="clearfix"></div>
+				</div>
+				<div class="col-md-7 eve-rt">
+					<h4>The majority have</h4>
+					<p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration</p>
+				</div>
+				<div class="clearfix"></div>
 			</div>
-			<div class="ab-btm">
-				<div class="ab-l">
-					<h6>2013 -</h6>
-				</div>
-				<div class="ab-r">
-					<p>Lorem Ipsum is simply dummy text  Lorem Ipsum typesetting industry. Lorem Ipsum has been the  of the printing and words which don't look even slightly dummy text of the printing and words which don't look even slightly believable.</p>
-				</div>
+			<div class="eve-top">
+				<div class="col-md-5 eve-lt">
+					<div class="ev-lft">
+						<img src="images/img1.jpg" alt=" " class="img-responsive">
+					</div>
+					<div class="ev-rgt">
+						<h5>23</h5>
+						<h6>December</h6>
+					</div>	
 					<div class="clearfix"></div>
+				</div>
+				<div class="col-md-7 eve-rt">
+					<h4>Suffered alteration</h4>
+					<p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration</p>
+				</div>
+				<div class="clearfix"></div>
 			</div>
-			<div class="ab-btm">
-				<div class="ab-l">
-					<h6>2014 -</h6>
-				</div>
-				<div class="ab-r">
-					<p>Lorem Ipsum is simply dummy text of the printing  Lorem Ipsum typesetting industry. Lorem Ipsum has been the  and words which don't look even slightly dummy text of the printing and words which don't look even slightly believable.</p>
-				</div>
-					<div class="clearfix"></div>
+		</div>
+		<div class="col-md-3 events-right">
+			<h3>Archive</h3>
+			<div class="eve-btm">
+				<li><a href="#">January 2015</a></li>
+				<li><a href="#">February 2015</a></li>
+				<li><a href="#">March 2015</a></li>
+				<li><a href="#">April 2015</a></li>
+				<li><a href="#">May 2015</a></li>
+				<li><a href="#">June 2015</a></li>
+				<li><a href="#">July 2015</a></li>
+				<li><a href="#">August 2015</a></li>
+				<li><a href="#">September 2015</a></li>
+				<li><a href="#">October 2015</a></li>
+				<li><a href="#">November 2015</a></li>
+				<li><a href="#">December 2015</a></li>
 			</div>
-			<div class="ab-btm">
-				<div class="ab-l">
-					<h6>2015 -</h6>
-				</div>
-				<div class="ab-r">
-					<p>Lorem Ipsum is simply dummy text of the printing and words  Lorem Ipsum typesetting industry. Lorem Ipsum has been the  which don't look even slightly dummy text of the printing and words which don't look even slightly believable.</p>
-				</div>
-					<div class="clearfix"></div>
-			</div>
+		</div>
+			<div class="clearfix"></div>
 	</div>
 </div>
 <!-- footer -->
@@ -180,7 +219,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				</div>
 				<div class="clearfix"> </div>
 		</div>
-			<div class="clearfix"></div>
+		<div class="clearfix"></div>
 		<div class="footer-bottom">
 			<p>Copyrights © 2015 Music8. All rights reserved | Design by <a href="http://w3layouts.com/">W3layouts</a></p>
 		</div>
