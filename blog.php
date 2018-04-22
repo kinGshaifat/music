@@ -23,7 +23,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 		<div class="header-bottom">
 			<div class="fixed-header">
 				<div class="logo">
-					<h1><a href="index.html">Music<span>8</span></a></h1>
+					<h1><b>music world</b></h1>
 				</div>
 			<div class="hd-lt">	
 			<span class="menu"> </span>

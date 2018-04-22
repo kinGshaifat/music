@@ -18,7 +18,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 </head>
 <body>
 <!--banner-->
-<div class="banner" id="home">
+<div class="banner" id="index">
 	<div class="header-top">
 		<div class="header-bottom">
 			<div class="fixed-header">
@@ -54,11 +54,11 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 		});
 		</script>
 		<div class="header-right">
-					<h6>Follows Us :</h6>
+					<h6>Follows me :</h6>
 						<ul class="f-icons">
-							<li><a href="#" class="facebook"> </a></li>
+							<li><a href="https://www.facebook.com/kingshaifat" class="facebook"> </a></li>
 							<li><a href="#" class="p"> </a></li>
-							<li><a href="#" class="twitter"> </a></li>
+							<li><a href="https://www.twitter.com/skshaifat" class="twitter"> </a></li>
 						</ul>
 							<div class="clearfix"></div>
 				</div>
