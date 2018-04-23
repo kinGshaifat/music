@@ -75,20 +75,20 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 <div class="priv">
 	<div class="container">
 		<div class="col-md-9 priv-left">
-			<h3>Ipsum comes from sections</h3>
+			<h3>Music comes from Heart</h3>
 			<div class="pvt-lt">
-				<img src="images/2.jpg" alt=" " class="img-responsive">
+				<img src="images/001.jpg" alt=" " class="img-responsive">
 			</div>
 			<div class="pvt-rgt">
-				<h4>Lorem Ipsum comes from sections</h4>
-				<p>Lorem Ipsum is simply dummy text of the printing and words which don't look even slightly believable. If words which don't look even slightly believable. If you are  are going to use a passage of Lorem Ipsum typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, </p>
+				<h4>Music section</h4>
+				<p>Music is an art form and cultural activity whose medium is sound organized in time. The common elements of music are pitch (which governs melody and harmony), rhythm (and its associated concepts tempo, meter, and articulation), dynamics (loudness and softness), and the sonic qualities of timbre and texture (which are sometimes termed the "color" of a musical sound)</p>
 			</div>
 			<div class="clearfix"></div>
 		</div>
 		<div class="col-md-3 priv-right">
 			<div class="pvt-rt">
-			<h5>Finibus Bonorum et</h5>
-			<p>There are many variations but the of passages of but the majority Lorem Ipsum available, but the majority have su</p>
+			<h5>under construction..</h5>
+			<p>....</p>
 			</div>
 		</div>
 		<div class="clearfix"></div>
@@ -132,9 +132,9 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				<!-- //light-box -->
 
 		<div class="col-md-4 sched-right">
-			<h4>Finibus Bonorum et</h4>
-			<img src="images/1.jpg" alt=" " class="img-responsive">
-			<p>There are many variations but the of passages of but the majority Lorem Ipsum available, but the majority have su</p>
+			<h4>under construction</h4>
+			<img src="images/IMG_6208.jpg" alt=" " class="img-responsive">
+			<p>.......</p>
 		</div>
 			<div class="clearfix"></div>
 	</div>
